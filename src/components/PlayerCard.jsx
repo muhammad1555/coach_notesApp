@@ -21,9 +21,9 @@ const PlayerCard = ({ player, lastNote, isOverdue, onPlayerClick }) => {
     <div onClick={() => onPlayerClick(player)} className="bg-white border border-gray-200 rounded-lg p-4 hover:border-blue-500 hover:shadow-md transition-all cursor-pointer">
       <div className="flex items-start justify-between mb-4">
         <div className="flex items-center gap-3">
-          <div className="w-12 h-12 bg-gray-100 rounded-lg flex items-center justify-center border border-gray-200">
+          {/* <div className="w-12 h-12 bg-gray-100 rounded-lg flex items-center justify-center border border-gray-200">
             <span className="text-gray-700 font-semibold text-sm">#{player.jerseyNumber}</span>
-          </div>
+          </div> */}
           <div>
             <h3 className="font-semibold text-gray-900 text-base">{player.name}</h3>
             <div className="flex items-center gap-2 mt-1">
