@@ -1,10 +1,10 @@
 import './App.css';
-
+import RosterPage from './pages/RosterPage';
 
 function App() {
   return (
     <div className="App">
-    <h1 className=''>hello tailwind css</h1>
+      <RosterPage />
     </div>
   );
 }
