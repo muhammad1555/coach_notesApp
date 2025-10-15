@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "playerId": 1,
+    "date": "2025-10-10",
+    "note": "Great performance in training. Showed excellent finishing skills.",
+    "createdBy": "Coach Ahmed"
+  },
+  {
+    "id": 2,
+    "playerId": 1,
+    "date": "2025-09-28",
+    "note": "Needs to work on defensive positioning during set pieces.",
+    "createdBy": "Coach Ahmed"
+  },
+  {
+    "id": 3,
+    "playerId": 2,
+    "date": "2025-10-12",
+    "note": "Excellent ball control and passing accuracy. Leadership qualities emerging.",
+    "createdBy": "Coach Ahmed"
+  },
+  {
+    "id": 4,
+    "playerId": 3,
+    "date": "2025-08-15",
+    "note": "Strong tackles but needs to improve speed. Good communication skills.",
+    "createdBy": "Coach Ahmed"
+  },
+  {
+    "id": 5,
+    "playerId": 4,
+    "date": "2025-10-14",
+    "note": "Outstanding reflexes during penalty practice. Very focused.",
+    "createdBy": "Coach Ahmed"
+  },
+  {
+    "id": 6,
+    "playerId": 5,
+    "date": "2025-07-20",
+    "note": "Good speed but needs to work on first touch. Promising talent.",
+    "createdBy": "Coach Ahmed"
+  },
+  {
+    "id": 7,
+    "playerId": 6,
+    "date": "2025-10-08",
+    "note": "Versatile player, can play multiple positions. Great team player.",
+    "createdBy": "Coach Ahmed"
+  },
+  {
+    "id": 8,
+    "playerId": 7,
+    "date": "2025-09-05",
+    "note": "Solid defender, rarely makes mistakes. Could be more aggressive in attack.",
+    "createdBy": "Coach Ahmed"
+  },
+  {
+    "id": 9,
+    "playerId": 8,
+    "date": "2025-10-13",
+    "note": "Young talent with great potential. Needs to gain more experience.",
+    "createdBy": "Coach Ahmed"
+  },
+  {
+    "id": 10,
+    "playerId": 2,
+    "date": "2025-09-30",
+    "note": "Showed great improvement in stamina during long training sessions.",
+    "createdBy": "Coach Ahmed"
+  }
+]

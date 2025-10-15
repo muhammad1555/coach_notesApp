@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed Hassan",
+    "position": "Forward",
+    "age": 22,
+    "jerseyNumber": 10
+  },
+  {
+    "id": 2,
+    "name": "Muhammad Ali",
+    "position": "Midfielder",
+    "age": 20,
+    "jerseyNumber": 8
+  },
+  {
+    "id": 3,
+    "name": "Yasir Khan",
+    "position": "Defender",
+    "age": 24,
+    "jerseyNumber": 5
+  },
+  {
+    "id": 4,
+    "name": "Usman Malik",
+    "position": "Goalkeeper",
+    "age": 26,
+    "jerseyNumber": 1
+  },
+  {
+    "id": 5,
+    "name": "Bilal Ahmed",
+    "position": "Forward",
+    "age": 21,
+    "jerseyNumber": 11
+  },
+  {
+    "id": 6,
+    "name": "Hamza Sheikh",
+    "position": "Midfielder",
+    "age": 23,
+    "jerseyNumber": 6
+  },
+  {
+    "id": 7,
+    "name": "Zain Abbas",
+    "position": "Defender",
+    "age": 25,
+    "jerseyNumber": 3
+  },
+  {
+    "id": 8,
+    "name": "Faraz Iqbal",
+    "position": "Forward",
+    "age": 19,
+    "jerseyNumber": 9
+  }
+]
