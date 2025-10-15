@@ -139,6 +139,7 @@ const RosterPage = () => {
         <div className="mb-4 text-sm text-gray-600">
           Showing <span className="font-medium text-gray-900">{filteredPlayers.length}</span> of <span className="font-medium text-gray-900">{players.length}</span> players
         </div>
+        
 
         {filteredPlayers.length === 0 ? (
           <div className="text-center py-12 bg-white rounded-lg border border-gray-200">
